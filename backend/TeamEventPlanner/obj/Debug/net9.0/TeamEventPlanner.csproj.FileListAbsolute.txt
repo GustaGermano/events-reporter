@@ -83,3 +83,4 @@ C:\Users\germa\OneDrive\Documentos\team-event-planner\backend\TeamEventPlanner\o
 C:\Users\germa\OneDrive\Documentos\team-event-planner\backend\TeamEventPlanner\obj\Debug\net9.0\TeamEventPlanner.pdb
 C:\Users\germa\OneDrive\Documentos\team-event-planner\backend\TeamEventPlanner\obj\Debug\net9.0\TeamEventPlanner.genruntimeconfig.cache
 C:\Users\germa\OneDrive\Documentos\team-event-planner\backend\TeamEventPlanner\obj\Debug\net9.0\ref\TeamEventPlanner.dll
+C:\Users\germa\OneDrive\Documentos\team-event-planner\backend\TeamEventPlanner\obj\Debug\net9.0\TeamEventPlanner.sourcelink.json
