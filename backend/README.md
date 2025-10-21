@@ -19,10 +19,10 @@ This is the backend for the **Events Reporter** project, responsible for providi
 
 3. Restore NuGet packages:
 
-```bash
-dotnet restore
+    ```bash
+    dotnet restore
 
 4. Run the application:
 
-```bash 
-dotnet run
+    ```bash
+    dotnet run
