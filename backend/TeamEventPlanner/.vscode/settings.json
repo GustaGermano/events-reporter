@@ -1,0 +1,7 @@
+{
+  "omnisharp.projectLoadTimeout": 60,
+  "omnisharp.useModernNet": true,
+  "omnisharp.sdkIncludePrereleases": true,
+  "omnisharp.enableEditorConfigSupport": true,
+  "omnisharp.useGlobalMono": "never"
+}

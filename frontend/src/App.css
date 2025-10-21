@@ -1,0 +1,99 @@
+:root {
+  --bg-color: #1e1e2f;
+  --card-color: #2b2b3d;
+  --text-color: #f5f5f5;
+  --accent: #4f8cff;
+  --accent-hover: #3678ff;
+  --border-radius: 10px;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: var(--card-color);
+  padding: 10px 20px;
+  border-bottom: 2px solid var(--accent);
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+nav a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.2s;
+}
+
+nav a:hover {
+  color: var(--accent-hover);
+}
+
+.container {
+  max-width: 700px;
+  margin: 30px auto;
+  background: var(--card-color);
+  padding: 25px;
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+h2, h3, h4 {
+  color: var(--accent);
+}
+
+input, button {
+  padding: 8px 10px;
+  margin: 5px 0;
+  border-radius: var(--border-radius);
+  border: none;
+  outline: none;
+}
+
+input {
+  width: 100%;
+  background-color: #3b3b4e;
+  color: white;
+}
+
+button {
+  background-color: var(--accent);
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: var(--accent-hover);
+}
+
+button:disabled {
+  background-color: #555;
+  cursor: not-allowed;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #d1d1d1;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #38384d;
+  padding: 10px;
+  border-radius: var(--border-radius);
+  margin-bottom: 10px;
+}
