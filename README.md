@@ -20,17 +20,17 @@ Events Reporter is a web application designed to **manage, track, and display ev
    git clone <repository-link>
    
 2. Navigate to the frontend directory:
-
-cd frontend
+     ```bash
+   cd frontend
 
 3. Install dependencies:
-
-npm install
+     ```bash
+   npm install
 
 4. Run the development server:
-
-npm run dev
+     ```bash
+   npm run dev
 
 5. Build the project for production:
-
-npm run build
+     ```bash
+   npm run build
